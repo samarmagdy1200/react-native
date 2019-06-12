@@ -1,0 +1,102 @@
+{
+  "albums": [
+    {
+      "title": "Alem Alby",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Alem-Alby-Amr-Diab/dp/B000267Z9Q",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5134cbyWXzL.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Ahla W Ahla",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Ahla-W-Summer-Amr-Diab/dp/B01K09FBLS",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71WzuIGHvDL._SX522_.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Aktar Wahed",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Amr-Diab-Aktar-Wahed/dp/B073MRD38C",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31Z14SldDmL.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Amarain",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Amarain-Amr-Diab/dp/B000042ON2",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41caWi-X0hL.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Banadeek Ta'ala",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Banadeek-Taala-Amr-Diab/dp/B005TKF402",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51cjrYkmPJL.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Wayah",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Wayah-2009-Album/dp/B002FXS1OC",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/411u5EhjEuL.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Ya Omrena",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Ya-Omrena-by-Amr-Diab/dp/B01KBJSB46",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/918ha8ihUcL._SX522_.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Kammel Kalamak",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Kammel-Kalamak/dp/B000GFMB5G",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/410DPAPSKDL.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Tamally Maak",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Tamally-Maak-Amr-Diab/dp/B00004WHLP",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/412YDYH519L.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Awedony",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Awedony-Amr-Diab/dp/B00003L310",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/413GGW48EXL.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Mayaal",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Mayaal-Amr-Diab/dp/B0001M0KOI",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71g7ePD7w4L._SX522_.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Zekrayat",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Zekrayat-Amr-Diab/dp/B0002MHEVY",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41sKC8cZ7eL.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "We Yloumouni",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/We-Yloumouni-Amr-Diab/dp/B0002MHEV4",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31nbsUbyXEL.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    },
+    {
+      "title": "Shawakna",
+      "artist": "Amr Diab",
+      "url": "https://www.amazon.com/Shawakna-Amr-Diab/dp/B0002MHEUU",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41Iuw1quRpL.jpg",
+      "thumbnail_image": "https://images-na.ssl-images-amazon.com/images/I/71I8ObATFRL.jpg"
+    }
+  ]
+}
